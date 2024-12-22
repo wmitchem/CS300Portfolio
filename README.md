@@ -4,7 +4,7 @@
 The problem being solved in the projects for this course was which data structure would be most efficient for a given task. Specifically, the comparison centered on vectors, hash tables and binary search trees. 
 
 ## How did you approach the problem?
-My approach to any problem begins with research. Any problem in coding is best addressed from the outset by examining the elements of the problem. For instance, with a data structure for storage, you need to quantify the features of 
+My approach to any problem begins with research. Any problem in coding is best addressed from the outset by examining the elements of the problem. For instance, with a data structure for storage, you need to quantify the features of each solution around time and space complexity, where time focuses on the runtime of the code, and space complexity centers on hardware needs like ram and storage.
 
 ## How did you overcome any roadblocks you encountered while going through the activities or project?
 I can't really say that I encountered any roadblocks during these assignments. I have prior experience with most of the concepts, so any minor hiccups I did encounter, I pretty much already knew how to address it.
